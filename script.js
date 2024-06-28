@@ -46,9 +46,14 @@ console.log('The average employee salary between our ${numEmployees} employee(s)
 
 
 // Select a random employee
+// TODO: Select and display a random employee
 const getRandomEmployee = function (employeesArray) {
-  // TODO: Select and display a random employee
+  
 };
+
+
+
+
 
 /*
   ====================

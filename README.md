@@ -15,7 +15,7 @@ This application runs in the browser and features dynamically updated HTML and C
 - Created a function that will take in the generated array of employees, randomly selected one emplyee (using the Math.random object), and used a template literal to log their full name to the console
 
 ## Link
-[Link to deplyed website]()
+[Link to deplyed website](https://mandi7469.github.io/Employee-Payroll-Tracker/)
 
 The image shows the web application's apperance and the console log
 
